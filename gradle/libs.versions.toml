@@ -8,8 +8,6 @@ junitVersion = "1.2.1"
 espressoCore = "3.6.1"
 appcompat = "1.7.0"
 material = "1.12.0"
-billing = "1.0.0-alpha10"
-locationdelegation = "1.1.1"
 
 [libraries]
 androidbrowserhelper = { module = "com.google.androidbrowserhelper:androidbrowserhelper", version.ref = "androidbrowserhelper" }
@@ -19,8 +17,6 @@ androidx-junit = { group = "androidx.test.ext", name = "junit", version.ref = "j
 androidx-espresso-core = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espressoCore" }
 androidx-appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
 material = { group = "com.google.android.material", name = "material", version.ref = "material" }
-billing = { group = "com.google.androidbrowserhelper", name = "billing", version.ref = "billing" }
-locationdelegation = { group = "com.google.androidbrowserhelper", name = "locationdelegation", version.ref = "locationdelegation" }
 
 [plugins]
 android-application = { id = "com.android.application", version.ref = "agp" }
