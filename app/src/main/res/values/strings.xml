@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Math Editor</string>
-    <string name="asset_statements">
+    <string name="appName">Math Editor</string>
+    <string name="launcherName">Math Editor</string>
+    <string name="assetStatements">
     [{
         \"relation\": [\"delegate_permission/common.handle_all_urls\"],
         \"target\": {
@@ -8,6 +9,12 @@
             \"site\": \"https://matheditor.me\"
         }
     }]
-
   </string>
+    <string name="webManifestUrl">https://matheditor.me/manifest.json</string>
+    <string name="launchUrl">https://matheditor.me/</string>
+    <string name="fullScopeUrl">https://matheditor.me/</string>
+    <string name="hostName">matheditor.me</string>
+    <string name="providerAuthority">ml.matheditor.twa.fileprovider</string>
+    <string name="fallbackType">customtabs</string>
+    <string name="orientation">default</string>
 </resources>
