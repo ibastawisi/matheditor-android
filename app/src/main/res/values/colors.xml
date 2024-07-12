@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#1976d2</color>
-    <color name="colorPrimaryDark">#121212</color>
-    <color name="navigationColor">#121212</color>
-    <color name="navigationColorDark">#121212</color>
-    <color name="navigationDividerColor">#121212</color>
-    <color name="navigationDividerColorDark">#121212</color>
-    <color name="backgroundColor">#181818</color>
+    <color name="navigationColor">#ffffff</color>
+    <color name="navigationDividerColor">#ffffff</color>
+    <color name="backgroundColor">#ffffff</color>
 </resources>
