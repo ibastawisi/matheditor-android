@@ -24,7 +24,7 @@ android {
         applicationId = "ml.matheditor.twa"
         minSdk = 24
         targetSdk = 34
-        versionCode = 9
+        versionCode = 10
         versionName = "0.7.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
