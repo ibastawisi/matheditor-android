@@ -18,13 +18,13 @@ android {
         }
     }
     namespace = "ml.matheditor.twa"
-    compileSdk = 34
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "ml.matheditor.twa"
         minSdk = 24
-        targetSdk = 34
-        versionCode = 10
+        targetSdk = 36
+        versionCode = 11
         versionName = "0.7.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
